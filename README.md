@@ -1,16 +1,4 @@
-# ai_image
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# AIvsReal Classifier
+In today's world there is too much fake AI generated Images almost impossible to differentiate using naked-eye
+This app exactly tries to deal with that problem, using AI.
+This is an app that uses a Resnet model to classify an Image either as AI generated or Real Image with appropriate confidence.
